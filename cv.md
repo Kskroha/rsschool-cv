@@ -67,13 +67,13 @@ function fakeBin(x){
 ### Projects
 
 **Website coding**
-* [https://kskroha.github.io/2040395-gllacy-34/] (only desktop version)
-* [https://github.com/Kskroha/2040395-cat-energy-26] (adaptive)
-* [http://evklid.krokhaksenia.webtm.ru/] (adaptive)
+* [desktop version] (https://kskroha.github.io/2040395-gllacy-34/)
+* [adaptive] (https://github.com/Kskroha/2040395-cat-energy-26)
+* [adaptive] (http://evklid.krokhaksenia.webtm.ru/)
 
 **Web interface development**
-* [https://kskroha.github.io/2040395-kekstagram-27/] (social network for sharing photos, study project)
-* [https://github.com/Kskroha/skillbus] (crm interface, study project)
+* [social network for sharing photos, study project] (https://kskroha.github.io/2040395-kekstagram-27/)
+* [crm interface, study project] (https://github.com/Kskroha/skillbus)
 
 ***
 ### Languages
