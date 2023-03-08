@@ -4,7 +4,9 @@
 
 
 ***
+
 ### Contacts
+
 **Phone**: +7 917 360-40-02
 
 **Email**: ksenia.karib@gmail.com
@@ -12,6 +14,7 @@
 **Telegram**: @Kseniakarib
 
 *** 
+
 ### About me
 
 Working as a Korean language teacher, I helped many people pursue their dreams. Now I feel like I have got one of my own. And that is to become a full-time front-end developer. Coding became my main passion and I cannot spend a day without challenging a task in codewars or reading a book on Javascript. I am eager to learn new concepts, create projects and develop my frontend skills. 
@@ -53,30 +56,32 @@ function fakeBin(x){
 }
 ```
 ***
+
 ### Courses
 
 * [HTML academy. Frontend Deleloper course (in progress)](https://htmlacademy.ru/profession/frontender)
 
-![HTML and CSS. Adaptive website coding and automation certificate.](sert1.png")
+![HTML and CSS. Adaptive website coding and automation certificate.](./sert1.png)
 
-![JavaScript. Professional Development of Web Interfaces.](sert2.png")
+![JavaScript. Professional Development of Web Interfaces.](./sert2.png)
 
-* [Skillbox. Frontend Deleloper Pro course (in progress)](https://skillbox.ru/course/frontend-pro-expert/)
+* [Skillbox. Frontend Deleloper Pro course (in progress)](https://skillbox.ru/course/frontend-pro-expert)
 
 ***
+
 ### Projects
 
 **Website coding**
 
-* [desktop version](https://kskroha.github.io/2040395-gllacy-34/)
+* [desktop version](https://kskroha.github.io/2040395-gllacy-34)
 
 * [adaptive](https://github.com/Kskroha/2040395-cat-energy-26)
 
-* [adaptive](http://evklid.krokhaksenia.webtm.ru/)
+* [adaptive](http://evklid.krokhaksenia.webtm.ru)
 
 **Web interface development**
 
-* [social network for sharing photos, study project](https://kskroha.github.io/2040395-kekstagram-27/)
+* [social network for sharing photos, study project](https://kskroha.github.io/2040395-kekstagram-27)
 
 * [crm interface, study project](https://github.com/Kskroha/skillbus)
 
