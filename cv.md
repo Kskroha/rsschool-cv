@@ -57,9 +57,9 @@ function fakeBin(x){
 
 * [HTML academy. Frontend Deleloper course (in progress)](https://htmlacademy.ru/profession/frontender)
 
-![HTML and CSS. Adaptive website coding and automation certificate.](/sert1.png")
+![HTML and CSS. Adaptive website coding and automation certificate.](sert1.png")
 
-![JavaScript. Professional Development of Web Interfaces.](/sert2.png")
+![JavaScript. Professional Development of Web Interfaces.](sert2.png")
 
 * [Skillbox. Frontend Deleloper Pro course (in progress)](https://skillbox.ru/course/frontend-pro-expert/)
 
@@ -67,13 +67,18 @@ function fakeBin(x){
 ### Projects
 
 **Website coding**
-* [desktop version] (https://kskroha.github.io/2040395-gllacy-34/)
-* [adaptive] (https://github.com/Kskroha/2040395-cat-energy-26)
-* [adaptive] (http://evklid.krokhaksenia.webtm.ru/)
+
+* [desktop version](https://kskroha.github.io/2040395-gllacy-34/)
+
+* [adaptive](https://github.com/Kskroha/2040395-cat-energy-26)
+
+* [adaptive](http://evklid.krokhaksenia.webtm.ru/)
 
 **Web interface development**
-* [social network for sharing photos, study project] (https://kskroha.github.io/2040395-kekstagram-27/)
-* [crm interface, study project] (https://github.com/Kskroha/skillbus)
+
+* [social network for sharing photos, study project](https://kskroha.github.io/2040395-kekstagram-27/)
+
+* [crm interface, study project](https://github.com/Kskroha/skillbus)
 
 ***
 ### Languages
