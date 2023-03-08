@@ -61,6 +61,18 @@ function fakeBin(x){
 * [Skillbox. Frontend Deleloper Pro course (in progress)](https://skillbox.ru/course/frontend-pro-expert/)
 
 ***
+### Projects
+
+**Website coding**
+* [https://kskroha.github.io/2040395-gllacy-34/] (only desktop version)
+* [https://github.com/Kskroha/2040395-cat-energy-26] (adaptive)
+* [http://evklid.krokhaksenia.webtm.ru/] (adaptive)
+
+**Web interface development**
+* [https://kskroha.github.io/2040395-kekstagram-27/] (social network for sharing photos, study project)
+* [https://github.com/Kskroha/skillbus] (crm interface, study project)
+
+***
 ### Languages
 
 * English - Advanced, IELTS(C1)
